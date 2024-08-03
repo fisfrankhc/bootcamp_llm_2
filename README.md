@@ -1,4 +1,4 @@
-# Proyecto de Fine-Tuning de BERT para Datos de Ventas
+# TAREA 04 - FRANK HUAMAN
 
 ## Descripción
 
